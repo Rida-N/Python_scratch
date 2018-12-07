@@ -1,2 +1,2 @@
 # Python_scratch
-practice some python things
+Some python practice things
